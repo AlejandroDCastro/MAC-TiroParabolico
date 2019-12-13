@@ -1,0 +1,4 @@
+
+La escena que hemos utilizado es  "MaxScriptDemo.max", localizada en la carpeta Escena.zip.
+
+En "Videotutorial.txt" hay un enlace a youtube con el vídeo en cuestión.
